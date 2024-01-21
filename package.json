@@ -10,9 +10,9 @@
     "grunt-eslint": "latest",
     "grunt-jsonlint": "latest",
     "grunt-markdownlint": "^1.0.13",
-    "grunt-stylelint": "latest",
+    "grunt-stylelint": "0.18.0",
     "grunt-yamllint": "latest",
-    "stylelint-config-standard": "latest",
+    "stylelint-config-standard": "29.0.0",
     "time-grunt": "latest"
   }
 }
